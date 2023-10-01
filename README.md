@@ -1,2 +1,2 @@
 # Joglaressa.github.io
-GitHub page using Jekyll
+A page of thoughts and useful references for technical writing.
