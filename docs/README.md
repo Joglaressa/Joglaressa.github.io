@@ -6,7 +6,7 @@ This site was created using instructions from [The Least You Need to Know About 
 
 ## [Simplified Technical English](https://www.asd-ste100.org/)
 I've never tried to write fully compliant STE, but some of ASD's grammar rules are worth adopting as guidelines when writing instruction manuals. Okay, the style is going to be dry and factual (not the thing if your brief is to engage the reader's enthusiasm) but ideal if you need to provide procedural instructions for a complex task, or one that could go horribly wrong. 
-I've tried to follow the grammar rules in writing my [guideline](/notes-on-ste.md) so they're also an example of the style.
+I've tried to follow the grammar rules in writing my [guideline](https://joglaressa.github.io/docs/Notes-on-STE.md) so they're also an example of the style.
 
 ## Using [Canva](https://www.canva.com/)
 Canva is great fun to use, so I've been using their templates to create one page reminders of key points from courses.
