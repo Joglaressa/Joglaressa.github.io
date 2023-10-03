@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Notes from STE"
+permalink: /https://Joglaressa.github.io/Joglaressa.github.io/docs/Notes-on-STE
+---
+
 **General technical writing advice derived from AST-STE100** 
 
 General advice
