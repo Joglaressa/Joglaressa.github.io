@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Notes from STE"
-
+title: "Notes from AST-STE100"
+permalink: /https://Joglaressa.github.io/Joglaressa.github.io/docs/Notes-on-STE
 ---
 
 **General technical writing advice derived from AST-STE100** 
