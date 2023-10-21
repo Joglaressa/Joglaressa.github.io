@@ -5,8 +5,8 @@
 - [MadCap Flare tutorial for complete beginners](https://techwritersblog.com/madcap-flare-category/madcap-flare-tutorial-for-beginners-how-to-use-madcap-flare-in-3-simple-steps/) I found this useful as a really basic 'start here'
 - [docfx](https://dotnet.github.io/docfx/index.html) Generate documentation from C# .NET API documentation
 - [Generate markdown from VisualStudio XML files](https://gist.github.com/formix/515d3d11ee7c1c252f92)
-- [Streamlit AI interface](https://llama2demo.streamlit.app/) handy for translation, transcription and idea generation
-- [Modern Font Stacks](https://modernfontstacks.com/) the Article view is really useful for previewing fonts
+- [Streamlit AI interface](https://llama2demo.streamlit.app/) handy for translation, transcription and idea generation if given clear prompts
+- [Modern Font Stacks](https://modernfontstacks.com/) 
 - [CIA Style Manual](https://archive.org/details/DIStyleManual/mode/2) which includes a guide to writing good formal US English (ok, a little out of date but still useful from the UK perpective)
 - [licecap](https://www.cockos.com/licecap/) - create screengrabs as animated gifs
 
@@ -31,20 +31,20 @@ This needs the access token but you don't see it when you paste it at the comman
 My notes on [how to use STE rules](Notes-on-STE.md) in general technical writing
 
 ## Reminders from courses
-Old school Pong from this [Udemy JavaScript course](https://www.udemy.com/course/code-your-first-game/). [Source](game.html) is a good reminder of JavaScript syntax and how to embed it in a page.  
-Canva files I made to capture key info from [JSON](https://joglaressa.github.io/joglaressa.github.io/blob/main/docs/JSON.pdf) and [markdown](https://joglaressa.github.io/joglaressa.github.io/blob/main/docs/Markdown.pdf) courses.
+Old school [Pong](game.html) from this [Udemy JavaScript course](https://www.udemy.com/course/code-your-first-game/). [Source](https://github.com/Joglaressa/joglaressa.github.io/blob/main/docs/game.html) is a good reminder of JavaScript syntax and how to embed it in a page.  
+Canva files I made to capture key info from [JSON](JSON.pdf) and [markdown](Markdown.pdf) courses.
 
 ## Generally useful links
 - [Makefiles 101](https://opensource.com/article/18/8/what-how-makefile)
 - [Open Source cheat sheets](https://opensource.com/downloads)
 - [18 rules for using text](https://thevisualcommunicationguy.com/2014/07/01/18-rules-for-using-text/)
 - [The ABC of Design](https://www.designmantic.com/blog/infographics/abc-of-design/)
-- [50 types of Italian coffee](https://www.charmingitaly.com/different-types-of-italian-coffee/#) useful and great infographic design
+- [50 types of Italian coffee](https://www.charmingitaly.com/different-types-of-italian-coffee/#) both useful and stylish
 
 ## Other interesting stuff
 [The A-Z of typographic terms](https://www.monotype.com/sites/default/files/2022-12/FS_TypeTerms_AW_0.pdf)
 
-A brilliantly designed single page website [Distance to Mars](https://web.archive.org/web/20130408190635/http://distancetomars.com/)  
+This single page website [Distance to Mars](https://web.archive.org/web/20130408190635/http://distancetomars.com/) seservedly won design awards. 
 
 A thought-provoking infographic [Satelites orbiting Earth](https://www.flickr.com/photos/michaelpaukner/4314987544/sizes/o/in/set-72157622340623679/) 
 
@@ -52,4 +52,4 @@ Jane Brayne's description of the [reseach and experimental archaeology](https://
 
 An inventive idea, the [periodic table of heavy metals](https://popchart.co/collections/prints/products/periodic-table-of-heavy-metals)
 
-Liking clocks and sundials, I was pleased to find this [downloadable card sundial](https://sundialsoc.org.uk/sundial-maker/card-multidial/) (though I suspect the instructions could be better . . . )
+Liking clocks and sundials, I was pleased to find this [downloadable card sundial](https://sundialsoc.org.uk/sundial-maker/card-multidial/) (though I suspect the instructions could be better . . . ).
