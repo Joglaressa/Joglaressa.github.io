@@ -31,15 +31,25 @@ This needs the access token but you don't see it when you paste it at the comman
 My notes on [how to use STE rules](Notes-on-STE.md) in general technical writing
 
 ## Reminders from courses
-
-
-
+Old school Pong from this [Udemy JavaScript course](https://www.udemy.com/course/code-your-first-game/). [Source](game.html) is a good reminder of JavaScript syntax and how to embed it in a page.  
+Canva files I made to capture key info from [JSON](https://joglaressa.github.io/joglaressa.github.io/blob/main/docs/JSON.pdf) and [markdown](https://joglaressa.github.io/joglaressa.github.io/blob/main/docs/Markdown.pdf) courses.
 
 ## Generally useful links
 - [Makefiles 101](https://opensource.com/article/18/8/what-how-makefile)
 - [Open Source cheat sheets](https://opensource.com/downloads)
+- [18 rules for using text](https://thevisualcommunicationguy.com/2014/07/01/18-rules-for-using-text/)
+- [The ABC of Design](https://www.designmantic.com/blog/infographics/abc-of-design/)
+- [50 types of Italian coffee](https://www.charmingitaly.com/different-types-of-italian-coffee/#) useful and great infographic design
 
 ## Other interesting stuff
+[The A-Z of typographic terms](https://www.monotype.com/sites/default/files/2022-12/FS_TypeTerms_AW_0.pdf)
+
+A brilliantly designed single page website [Distance to Mars](https://web.archive.org/web/20130408190635/http://distancetomars.com/)  
+
+A thought-provoking infographic [Satelites orbiting Earth](https://www.flickr.com/photos/michaelpaukner/4314987544/sizes/o/in/set-72157622340623679/) 
+
 Jane Brayne's description of the [reseach and experimental archaeology](https://janebrayne.wordpress.com/2017/04/04/archer-journey-to-stonehenge-2/) behind her ['Archer, Journey to Stonehenge'](https://janebrayne.wordpress.com/amesbury-archer/) children's book.
+
+An inventive idea, the [periodic table of heavy metals](https://popchart.co/collections/prints/products/periodic-table-of-heavy-metals)
 
 Liking clocks and sundials, I was pleased to find this [downloadable card sundial](https://sundialsoc.org.uk/sundial-maker/card-multidial/) (though I suspect the instructions could be better . . . )
