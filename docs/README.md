@@ -20,9 +20,9 @@ To take a local copy of repo content:
 `git pull` - brings you up to date in your local file so beware if you had different content in local  
 
 To put local content back in a GitHub repo:  
-`git diff`  
-`git add` - stages the local change to be committed  
-`git commit` - will commit your changes to the local clone  
+`git diff`  NB 'q' to get out of diff text
+`git add .` or `git add [name]` - stages the local change to be committed  
+`git commit -m "commit message"` - will commit your changes to the local clone  
 `git push` - copies clone to the repo  
 This needs the access token but you don't see it when you paste it at the command line  
 `git pull` - confirm you're up to date  
