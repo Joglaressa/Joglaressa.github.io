@@ -20,7 +20,7 @@ To take a local copy of repo content:
 `git pull` - brings you up to date in your local file so beware if you had different content in local  
 
 To put local content back in a GitHub repo:  
-`git diff`  NB 'q' to get out of diff text
+`git diff`  NB 'q' to get out of diff text  
 `git add .` or `git add [name]` - stages the local change to be committed  
 `git commit -m "commit message"` - will commit your changes to the local clone  
 `git push` - copies clone to the repo  
@@ -40,6 +40,11 @@ Canva files I made to capture key info from [JSON](JSON.pdf) and [markdown](Mark
 - [18 rules for using text](https://thevisualcommunicationguy.com/2014/07/01/18-rules-for-using-text/)
 - [The ABC of Design](https://www.designmantic.com/blog/infographics/abc-of-design/)
 - [50 types of Italian coffee](https://www.charmingitaly.com/different-types-of-italian-coffee/#) both useful and stylish
+
+## For future reference
+- [Docker basics](https://medium.com/extend/a-handy-docker-commands-and-links-to-start-with-tomcat-example-25fe4931a28d)
+- [Docusaurus](https://docusaurus.io/docs) maybe easier to use than Jekyll
+- REST [concepts](https://restfulapi.net/) and [practical info](https://www.w3schools.in/restful-web-services/intro)
 
 ## Other interesting stuff
 [The A-Z of typographic terms](https://www.monotype.com/sites/default/files/2022-12/FS_TypeTerms_AW_0.pdf)
