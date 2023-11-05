@@ -6,7 +6,8 @@
 - [docfx](https://dotnet.github.io/docfx/index.html) Generate documentation from C# .NET API documentation
 - [Generate markdown from VisualStudio XML files](https://gist.github.com/formix/515d3d11ee7c1c252f92)
 - [Streamlit AI interface](https://llama2demo.streamlit.app/) handy for translation, transcription and idea generation if given clear prompts
-- [Modern Font Stacks](https://modernfontstacks.com/) 
+- [Modern Font Stacks](https://modernfontstacks.com/)
+- [What developers want from a developer portal](https://cherryleaf.teachable.com/p/what-developers-want)
 - [CIA Style Manual](https://archive.org/details/DIStyleManual/mode/2) which includes a guide to writing good formal US English (ok, a little out of date but still useful from the UK perpective)
 - [licecap](https://www.cockos.com/licecap/) - create screengrabs as animated gifs
 
@@ -40,8 +41,7 @@ Canva files I made to capture key info from [JSON](JSON.pdf) and [markdown](Mark
 - [18 rules for using text](https://thevisualcommunicationguy.com/2014/07/01/18-rules-for-using-text/)
 - [The ABC of Design](https://www.designmantic.com/blog/infographics/abc-of-design/)
 - [50 types of Italian coffee](https://www.charmingitaly.com/different-types-of-italian-coffee/#) both useful and stylish
-
-## For future reference
+- [The Great Big List of Infographics](https://feldmancreative.com/blog/infographics-101-the-big-idea/)
 - [Docker basics](https://medium.com/extend/a-handy-docker-commands-and-links-to-start-with-tomcat-example-25fe4931a28d)
 - [Docusaurus](https://docusaurus.io/docs) maybe easier to use than Jekyll
 - REST [concepts](https://restfulapi.net/) and [practical info](https://www.w3schools.in/restful-web-services/intro)
@@ -49,7 +49,7 @@ Canva files I made to capture key info from [JSON](JSON.pdf) and [markdown](Mark
 ## Other interesting stuff
 [The A-Z of typographic terms](https://www.monotype.com/sites/default/files/2022-12/FS_TypeTerms_AW_0.pdf)
 
-This single page website [Distance to Mars](https://web.archive.org/web/20130408190635/http://distancetomars.com/) seservedly won design awards. 
+This single page website [Distance to Mars](https://web.archive.org/web/20130408190635/http://distancetomars.com/) deservedly won design awards. 
 
 A thought-provoking infographic [Satelites orbiting Earth](https://www.flickr.com/photos/michaelpaukner/4314987544/sizes/o/in/set-72157622340623679/) 
 
